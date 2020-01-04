@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-class Main
+class QuickSortRandomized
 {
     public static void main(String[] args)
     {
