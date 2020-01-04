@@ -17,7 +17,7 @@ class BubbleSort
             {
                 if(arr[j] > arr[j+1])
                 {
-                    //swap a[j] with a[j+1]
+                    //swap element at index j with element at index j+1
                     int t = arr[j];
                     arr[j] = arr[j+1];
                     arr[j+1] = t;
