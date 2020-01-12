@@ -1,3 +1,8 @@
 # JAVA
-
-Practice Questions in Java.
+***
+## `Sorting:`
+* Bubble Sort
+* Selection Sort
+* Insertion Sort
+* Merge Sort
+* Quick Sort
