@@ -1,6 +1,6 @@
 # JAVA
 ***
-## `Sorting:`
+### `Sorting:`
 * Bubble Sort
 * Selection Sort
 * Insertion Sort
