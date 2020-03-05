@@ -9,5 +9,5 @@
 * Randomized Quick Sort
 
 ### `Linked List Practice`
-* Singly Linked List Implementation
-* Doubly Linked List Implementation
+* Singly List Implementation
+* Doubly List Implementation
