@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SinglyList
+public class SinglyLinkedList
 {
 	Node head;
 	class Node
@@ -287,7 +287,7 @@ public class SinglyList
 	public static void main(String[] args)
 	{
 		Scanner scan = new Scanner(System.in);
-		SinglyList ls = new SinglyList();
+		SinglyLinkedList ls = new SinglyLinkedList();
 		
 		int n;
 
