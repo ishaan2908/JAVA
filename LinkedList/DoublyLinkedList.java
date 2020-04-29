@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class DoublyList
+class DoublyLinkedList
 {
 	Node head;
 	Node tail;
@@ -168,7 +168,7 @@ class DoublyList
 	public static void main(String args[])
 	{
 		Scanner scan = new Scanner(System.in);
-		DoublyList ls = new DoublyList();
+		DoublyLinkedList ls = new DoublyLinkedList();
 		
 		int n;
 
