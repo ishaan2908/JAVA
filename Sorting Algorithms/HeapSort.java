@@ -5,7 +5,7 @@ public class HeapSort {
 	public void sort(int[] arr, int size) {
 		// build a max heap 
 		for(int i = (size - 2) / 2; i >= 0; i--) {
-		heapify(arr, size, i);
+			heapify(arr, size, i);
 		}
 
 		while(size-- > 0) {
