@@ -7,6 +7,7 @@
 * Merge Sort
 * Quick Sort
 * Randomized Quick Sort
+* Heap Sort
 
 ### `Linked List Practice`
 * Singly List Implementation
