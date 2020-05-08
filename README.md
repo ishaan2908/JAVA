@@ -1,6 +1,6 @@
 # JAVA
 ***
-### `Sorting:`
+### Sorting
 * Bubble Sort
 * Selection Sort
 * Insertion Sort
@@ -9,7 +9,7 @@
 * Randomized Quick Sort
 * Heap Sort
 
-### `Linked List`
+### Linked List
 * Singly List Implementation
 * Doubly List Implementation
 * Circular List Implementation
