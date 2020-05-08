@@ -9,6 +9,7 @@
 * Randomized Quick Sort
 * Heap Sort
 
-### `Linked List Practice`
+### `Linked List`
 * Singly List Implementation
 * Doubly List Implementation
+* Circular List Implementation
