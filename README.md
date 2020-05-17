@@ -10,6 +10,6 @@
 * Heap Sort
 
 ### Linked List
-* Singly List Implementation
-* Doubly List Implementation
-* Circular List Implementation
+* Singly List Linked Implementation
+* Doubly List Linked Implementation
+* Circular List Linked Implementation
